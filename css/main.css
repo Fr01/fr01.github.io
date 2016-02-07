@@ -1,0 +1,93 @@
+/**************************************
+GENERAL
+***************************************/
+
+body {
+}
+
+.jumboEdit1 {
+  text-align: center;
+  background-image: url('../img/new_year_background.png');
+  background-repeat: repeat;
+  background-position: 200% 100%;
+  background-attachment: fixed;
+  padding: 15% 0 20% 0;
+  margin-bottom: 0;
+}
+
+.portEdit1 {
+  background-image: url('../img/small_steps.png');
+  background-repeat: repeat;
+  background-size: 100%
+  background-position: 200% 100%;
+  background-attachment: fixed;
+  margin-bottom: 0;
+}
+
+.aboutEdit1 {
+  background-image: url('../img/old_moon.png');
+  background-repeat: repeat;
+  background-size: 100%
+  background-position: 200% 100%;
+  background-attachment: fixed;
+  margin-bottom: 0;
+}
+
+.well {
+  margin-bottom: 0;
+}
+
+.contactEdit1 {
+  margin-top: 1.5%;
+  margin-bottom: 1%;
+}
+
+.portHeader {
+  margin-top: 5%;
+  margin-bottom: 7%;
+}
+
+.aboutHeader {
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
+
+.myPicture {
+  border-radius: 10%;
+}
+
+.briefcaseEdit1 {
+  margin-top: 3%;
+  margin-bottom: -2%;
+}
+
+hr {
+  -moz-border-bottom-colors: none;
+  -moz-border-image: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: 1px 0;
+  margin: 18px 0;
+}
+
+/**************************************
+GLYPHICON
+***************************************/
+
+.glyphiconEdit1 {
+  font-size: 10em;
+  display: block;
+  text-align: center;
+  /*color: #3a87ad;*/
+}
+
+/**************************************
+COLORS
+***************************************/
+
+.navbarEdit {
+  background-color: rgba(0,0,0,.7);
+}
